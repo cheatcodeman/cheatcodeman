@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm the one, and only cheatcodeman.
 I am working on a secret something on Scratch!
-I like coffe and coffee. And also more coffee.
+I like coffee and coffee. And also more coffee.
 <!--
 **cheatcodeman/cheatcodeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
